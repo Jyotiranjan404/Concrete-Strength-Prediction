@@ -21,7 +21,7 @@
 - linear regression is a parametric model, where we are getting M and C values.
 - If model is overfitting means low bias high verience, we need to perform regularization like Ridge, Lasso and Elastic Net.
 - If model is underfitting, then we need to boost our algorithmns to learn better, for that we go with Optimizers like Gredient Decent.
-- This is the situation for over fitting and under fitting
+- This is the scenarios for over fitting and under fitting
 
 ![download](https://user-images.githubusercontent.com/84494071/132234266-5872a32f-90d5-40d7-9604-1b33c80db281.png)
 
